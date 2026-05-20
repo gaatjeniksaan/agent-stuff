@@ -1,0 +1,13 @@
+{
+  "name": "agent-stuff",
+  "version": "0.1.0",
+  "description": "Personal pi extensions and skills.",
+  "private": true,
+  "keywords": ["pi-package"],
+  "pi": {
+    "extensions": ["./extensions"],
+    "skills": ["./skills", "./skills"],
+    "prompts": ["./prompts"],
+    "themes": ["./themes"]
+  }
+}
